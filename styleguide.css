@@ -1,0 +1,22 @@
+:root {
+  --stroke: rgba(234, 234, 234, 1);
+  --black: #252525
+  --cream: rgba(209, 207, 192, 1);
+}
+
+:root {
+  --stroke: rgba(234, 234, 234, 1);
+  --black: rgba(37, 37, 37, 1);
+  --orange: rgba(247, 111, 83, 1);
+  --primary: rgba(240, 134, 26, 1);
+  --shadow-xs: 0px 1px 2px 0px rgba(16, 24, 40, 0.05);
+  --shadow-sm: 0px 1px 2px 0px rgba(16, 24, 40, 0.06), 0px 1px 3px 0px
+    rgba(16, 24, 40, 0.1);
+}
+
+:root {
+  --stroke: rgba(234, 234, 234, 1);
+  --black: rgba(37, 37, 37, 1);
+  --gray: rgba(79, 79, 81, 1);
+  --cream: rgba(209, 207, 192, 1);
+}
